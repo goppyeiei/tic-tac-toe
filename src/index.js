@@ -119,7 +119,6 @@ class Game extends React.Component {
           <div>{status}</div>
           <ol>{moves}</ol>
         </div>
-        <div>sdsdsd</div>
       </div>
     );
   }
